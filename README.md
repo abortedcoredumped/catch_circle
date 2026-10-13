@@ -18,4 +18,4 @@ Then, run the game:
 
 ## Control
 
-Press [A, S] to move, press [W, S] to adjust difficulty, press ESC to exit.
+Press [A, D] to move, press [W, S] to adjust difficulty, press ESC to exit.
